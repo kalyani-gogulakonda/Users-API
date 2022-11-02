@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Narendra",
+      "userName": "Kalyani",
+      "email": "kalyaninarendra@gmail.com",
+      "password":"kalyani"
+    },
+    {
+      "id": 3,
+      "name": "ShivaKeshav",
+      "userName": "shiva",
+      "email": "shiva@gmail.com",
+      "password":"shiva"
+    },
+    {
+      "id": 4,
+      "name": "Sai Krishna",
+      "userName": "Krish",
+      "email": "krish@gmail.com",
+      "password":"krish"
+    },
+    {
+      "id": 5,
+      "name": "Subrahmanya Swami",
+      "userName": "Subrahmanyam",
+      "email": "subrahmanyam@gmail.com",
+      "password":"Subrahmanyam"
+    },
+    {
+      "id": 6,
+      "name": "Saraswathi",
+      "userName": "Devi",
+      "email": "devi@gmail.com",
+      "password":"devi"
+    }
+  ]
+}
