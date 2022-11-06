@@ -1,39 +1,189 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
-      "name": "Narendra",
-      "userName": "Kalyani",
-      "email": "kalyaninarendra@gmail.com",
-      "password":"kalyani"
-    },
-    {
+      "first_name": "Kalyani",
+      "last_name": "Narendra",
+      "email": "kalyaninarender123@gmail.com",
+      "gender": "Female",
+      "city":"Sharjah",
+      "country":"UAE"
+    }, {
+      "id": 2,
+      "first_name": "Alissa",
+      "last_name": "Botley",
+      "email": "abotley1@dmoz.org",
+      "gender": "Female",
+      "city": "Umbultanjung",
+      "country": "Indonesia"
+    }, {
       "id": 3,
-      "name": "ShivaKeshav",
-      "userName": "shiva",
-      "email": "shiva@gmail.com",
-      "password":"shiva"
-    },
-    {
+      "first_name": "Imogen",
+      "last_name": "Rosenbaum",
+      "email": "irosenbaum2@instagram.com",
+      "gender": "Female",
+      "city": "Yŏnggwang-ŭp",
+      "country": "North Korea"
+    }, {
       "id": 4,
-      "name": "Sai Krishna",
-      "userName": "Krish",
-      "email": "krish@gmail.com",
-      "password":"krish"
-    },
-    {
+      "first_name": "Agna",
+      "last_name": "Withrop",
+      "email": "awithrop3@walmart.com",
+      "gender": "Female",
+      "city": "Upton",
+      "country": "United Kingdom"
+    }, {
       "id": 5,
-      "name": "Subrahmanya Swami",
-      "userName": "Subrahmanyam",
-      "email": "subrahmanyam@gmail.com",
-      "password":"Subrahmanyam"
-    },
-    {
+      "first_name": "Sheelah",
+      "last_name": "Benmore",
+      "email": "sbenmore4@github.io",
+      "gender": "Female",
+      "city": "Sentani",
+      "country": "Indonesia"
+    }, {
       "id": 6,
-      "name": "Saraswathi",
-      "userName": "Devi",
-      "email": "devi@gmail.com",
-      "password":"devi"
+      "first_name": "Murvyn",
+      "last_name": "Duran",
+      "email": "mduran5@vk.com",
+      "gender": "Male",
+      "city": "Concepcion",
+      "country": "Philippines"
+    }, {
+      "id": 7,
+      "first_name": "Adriaens",
+      "last_name": "Elven",
+      "email": "aelven6@google.fr",
+      "gender": "Polygender",
+      "city": "Rawasan",
+      "country": "Indonesia"
+    }, {
+      "id": 8,
+      "first_name": "Arel",
+      "last_name": "Murkus",
+      "email": "amurkus7@nba.com",
+      "gender": "Male",
+      "city": "Sukamaju Kidul",
+      "country": "Indonesia"
+    }, {
+      "id": 9,
+      "first_name": "Rowe",
+      "last_name": "Gillhespy",
+      "email": "rgillhespy8@utexas.edu",
+      "gender": "Female",
+      "city": "Kediren",
+      "country": "Indonesia"
+    }, {
+      "id": 10,
+      "first_name": "Ricki",
+      "last_name": "Instock",
+      "email": "rinstock9@51.la",
+      "gender": "Male",
+      "city": "Concordia",
+      "country": "Argentina"
+    }, {
+      "id": 11,
+      "first_name": "Diandra",
+      "last_name": "Neubigging",
+      "email": "dneubigginga@bbb.org",
+      "gender": "Non-binary",
+      "city": "Babah Rot",
+      "country": "Indonesia"
+    }, {
+      "id": 12,
+      "first_name": "Car",
+      "last_name": "Ganny",
+      "email": "cgannyb@hubpages.com",
+      "gender": "Male",
+      "city": "Komes",
+      "country": "Indonesia"
+    }, {
+      "id": 13,
+      "first_name": "Chas",
+      "last_name": "Faulder",
+      "email": "cfaulderc@twitter.com",
+      "gender": "Male",
+      "city": "Villa Nueva",
+      "country": "Argentina"
+    }, {
+      "id": 14,
+      "first_name": "Jerald",
+      "last_name": "Thorsby",
+      "email": "jthorsbyd@vimeo.com",
+      "gender": "Male",
+      "city": "San Pedro Necta",
+      "country": "Guatemala"
+    }, {
+      "id": 15,
+      "first_name": "Ethan",
+      "last_name": "Gutteridge",
+      "email": "egutteridgee@mac.com",
+      "gender": "Male",
+      "city": "Tulihe",
+      "country": "China"
+    }, {
+      "id": 16,
+      "first_name": "Siegfried",
+      "last_name": "Quinnelly",
+      "email": "squinnellyf@ning.com",
+      "gender": "Male",
+      "city": "Krapivna",
+      "country": "Russia"
+    }, {
+      "id": 17,
+      "first_name": "Leigh",
+      "last_name": "Pettipher",
+      "email": "lpettipherg@yelp.com",
+      "gender": "Male",
+      "city": "Barrosa",
+      "country": "Portugal"
+    }, {
+      "id": 18,
+      "first_name": "Itch",
+      "last_name": "Storrier",
+      "email": "istorrierh@barnesandnoble.com",
+      "gender": "Male",
+      "city": "Taibai",
+      "country": "China"
+    }, {
+      "id": 19,
+      "first_name": "Darice",
+      "last_name": "Blackaller",
+      "email": "dblackalleri@w3.org",
+      "gender": "Female",
+      "city": "Independencia",
+      "country": "Peru"
+    }, {
+      "id": 20,
+      "first_name": "Brod",
+      "last_name": "Couth",
+      "email": "bcouthj@webmd.com",
+      "gender": "Male",
+      "city": "Vir",
+      "country": "Slovenia"
+    }, {
+      "id": 21,
+      "first_name": "Robbert",
+      "last_name": "Slessor",
+      "email": "rslessork@blinklist.com",
+      "gender": "Bigender",
+      "city": "Santiago do Cacém",
+      "country": "Portugal"
+    }, {
+      "id": 22,
+      "first_name": "Oby",
+      "last_name": "Gillaspy",
+      "email": "ogillaspyl@booking.com",
+      "gender": "Male",
+      "city": "Hongcao",
+      "country": "China"
+    }, {
+      "id": 23,
+      "first_name": "Ivar",
+      "last_name": "Neely",
+      "email": "ineelym@360.cn",
+      "gender": "Male",
+      "city": "Uhryniv",
+      "country": "Ukraine"
     }
   ]
 }
